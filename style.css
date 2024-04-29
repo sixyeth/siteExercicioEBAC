@@ -113,8 +113,8 @@ header nav a{
 .containerProjects{
     display: flex;
     justify-content: center;
-    margin-bottom: 20px;
-    margin-top: 20px;
+    margin-bottom: 100px;
+    margin-top: 50px;
 }
 
 .containerProjects .leftProject{
@@ -186,7 +186,7 @@ header nav a{
 
 .hireMe img{
     justify-content: space-between;
-    margin-right: 200px;
+    margin-right: 100px;
     max-width: 500px;
 }
 
@@ -208,7 +208,7 @@ header nav a{
 }
 
 .hireMe input{
-    width: 232px;
+    width: 225px;
     height: 35px;
     border-radius: 8px;
 }
