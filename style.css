@@ -100,11 +100,11 @@ header nav a{
 }
 
 .containerProjects img{
-    height: 200px;
+    height: 180px;
 }
 
 #projects h2{
-    margin-left: 820px;
+    justify-content: center;
     font-size: 50px;
 }
 
@@ -201,7 +201,7 @@ header nav a{
 }
 
 .hireMe form h1{
-    font-size: 35px;
+    font-size: 25px;
     margin-bottom: 10px;
 }
 
