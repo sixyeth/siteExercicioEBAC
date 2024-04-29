@@ -211,11 +211,13 @@ header nav a{
     width: 225px;
     height: 35px;
     border-radius: 8px;
+    text-align: center;
 }
 
 .hireMe textarea{
     resize: none;
     border-radius: 8px;
+    text-align: center;
 }
 
 .hireMe label, input{
