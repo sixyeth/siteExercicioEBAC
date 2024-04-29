@@ -60,9 +60,12 @@ header nav a{
 
 .containerAboutMe{
     display: flex;
+    justify-content: center;
     max-width: 1600px;
     margin-top: 50px;
     margin-bottom: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 
 .infoAboutMe{
@@ -81,7 +84,6 @@ header nav a{
 
 .containerAboutMe .img{
     max-width: 500px;
-    margin-left: 300px;
 }
 
 .links a{
@@ -104,7 +106,7 @@ header nav a{
 }
 
 #projects h2{
-    justify-content: center;
+    text-align: center;
     font-size: 50px;
 }
 
